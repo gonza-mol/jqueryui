@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "name":"gonza",
+            "email":"gonza_mol@pep",
+            "password":"Chicharito10"
+
+        },
+        {
+            "name":"sergito",
+            "email":"sergito@pep",
+            "password":"Cachavacha20"
+
+        }
+
+
+
+    ]
+}
